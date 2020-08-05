@@ -5,7 +5,7 @@
     - #### java App
 
 - ## To test
-    - ### If you want to test the application move the sample test_file.txt to the {homepath}/data/in folder
+    - #### If you want to test the application move the sample test_file.txt to the {homepath}/data/in folder
 
 
 
